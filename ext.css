@@ -1,0 +1,139 @@
+a{
+    color: rgb(3, 3, 72);
+    margin: 30px;
+    font-size:20px;
+    font-family:serif;
+
+
+
+}
+
+nav{
+    background-color: rgba(104, 104, 105, 0.253);
+    font-size:23px;
+    color: black;
+    position: fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+
+    button{
+        position:fixed;
+        right: 13px;
+        background-color: black;
+        color: white;
+        width:100px;
+        border-radius: 20px;
+        font-size: 17px;
+        font-family:serif
+        
+    }
+ }
+
+ a:hover{
+    background:#ea463768;
+    text-decoration: underline black 4px;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ .aa{
+    overflow: hidden;
+ }
+ .aa img{
+    transition: scale 400ms;
+ }
+ .aa:hover img{
+    scale: 120%;
+ }
+ 
+ .b{
+    overflow: hidden;
+ }
+ .b img{
+    transition: scale 400ms;
+ }
+ .b:hover img{
+    scale: 120%;
+ }
+
+ .c{
+    overflow: hidden;
+ }
+ .c img{
+    transition: scale 400ms;
+ }
+ .c:hover img{
+    scale: 120%;
+ }
+
+ .d{
+    overflow: hidden;
+ }
+ .d img{
+    transition: scale 400ms;
+ }
+ .d:hover img{
+    scale: 120%;
+ }
+
+ .e{
+    overflow: hidden;
+ }
+ .e img{
+    transition: scale 400ms;
+ }
+ .e:hover img{
+    scale: 120%;
+ }
+
+ .f{
+    overflow: hidden;
+ }
+ .f img{
+    transition: scale 400ms;
+ }
+ .f:hover img{
+    scale: 120%;
+ }
+
+ .g{
+    overflow: hidden;
+ }
+ .g img{
+    transition: scale 400ms;
+ }
+ .g:hover img{
+    scale: 120%;
+ }
+ 
+ .h{
+    overflow: hidden;
+ }
+ .h img{
+    transition: scale 400ms;
+ }
+ .h:hover img{
+    scale: 120%;
+ }
+
+ .i{
+    overflow: hidden;
+ }
+ .i img{
+    transition: scale 400ms;
+ }
+ .i:hover img{
+    scale: 120%;
+ }
+ .j{
+    overflow: hidden;
+ }
+ .j img{
+    transition: scale 400ms;
+ }
+ .j:hover img{
+    scale: 120%;
+ }
+
+   
+
